@@ -22,6 +22,4 @@ Currently i am learning **GO**.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishSharma1-dev&layout=compact&theme=dark)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=manishSharma1-dev&theme=dark)  
-
-![GitHub Trends](https://api.githubtrends.io/user/svg/manishSharma1-dev/langs?time_range=one_year&theme=dark)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=manishSharma1-dev&theme=dark)](https://git.io/streak-stats)   
