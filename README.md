@@ -12,14 +12,21 @@ Currently i am learning **GO**.
 ---
 
 ## 🔗 Find Me Here  
-- 🌐 **Portfolio**: [Your Portfolio Link](https://portfolio-manish-pi.vercel.app/)]
-- 💼 **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/manish-sharma111)  
-- 📧 **Email**: [Your Email](manishvsharma1@gmail.com)  
+- 🌐 [Portfolio](https://portfolio-manish-pi.vercel.app/)
+- 💼 [Linkedin](www.linkedin.com/in/manish-sharma111)  
+- 📧 [Email](manishvsharma1@gmail.com)  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishSharma1-dev&layout=compact&theme=dark)  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=manishSharma1-dev&theme=dark)](https://git.io/streak-stats)   
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishSharma1-dev&layout=compact&theme=dark" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=manishSharma1-dev&theme=dark" />
+    </td>
+  </tr>
+</table>
